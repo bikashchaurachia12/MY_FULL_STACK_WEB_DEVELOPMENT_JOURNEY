@@ -11,6 +11,7 @@ To become a skilled full stack web developer by learning the fundamentals, build
 
 ## 🛠️ Technologies I Plan to Learn
 
+- DSA
 - HTML
 - CSS
 - JavaScript
