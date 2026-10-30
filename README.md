@@ -71,8 +71,10 @@ Based on my Full Stack Development curriculum, here is the comprehensive list of
 - [ ] Advanced Structures (Tries, B-Trees, Disjoint Sets, Bloom Filters)
 
 ## 📚 Learning Progress
-
+- [ ] Python
 - [ ] DSA
+      - [ ] Time & Space Complexity Analysis
+
 
 ## 📅 Daily Learning Log
 
