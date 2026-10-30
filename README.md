@@ -74,7 +74,7 @@ Based on my Full Stack Development curriculum, here is the comprehensive list of
 - [ ] Python
 - [ ] DSA
       - [ ] Time & Space Complexity Analysis
-
+      - [ ] Arrays 
 
 ## 📅 Daily Learning Log
 
