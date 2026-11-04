@@ -1,10 +1,11 @@
 ##3 SUM PROBLEM
 ##UNSORTED DATA
 ##DRIVERS CODE
+##TC-o(n)
+##SC-o(1) excluding sorting implementation
 nums=[-1,0,1,2,-1,-4]
 #Output=[[-1,-1,2],[-1.0,1]]
 
-#Step 1-Sort the Data
 def SUM_3(nums):
     nums.sort()
     ans=[]
