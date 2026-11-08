@@ -83,3 +83,17 @@ I will update this section as I learn new concepts and build projects.
 ---
 
 ⭐ Follow my journey as I grow from a beginner into a full stack web developer!
+    
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/bikash-chaurachia/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/bikash_chaurachia/">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="40" alt="LeetCode"/>
+  </a>
+  <a href="https://github.com/bikashchaurachia12">
+    <img src="https://cdn.simpleicons.org/github/181717" width="40" alt="GitHub"/>
+  </a>
+</p>
